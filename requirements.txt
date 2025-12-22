@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+geopandas
+shapely
+numpy
+pandas
+scikit-learn
+aiofiles
+python-multipart
+rasterio
+pyproj
