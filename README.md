@@ -1,10 +1,4 @@
-# GreeneryOTP
-Below is a **clean, professional `README.md` content** you can directly copy-paste into your GitHub repository.
-It’s written in a **generic but strong way**, so it will work well for your backend project (you can easily tweak names if needed).
 
----
-
-```markdown
 # 🌱 GreeneryOPT Backend
 
 GreeneryOPT Backend is the server-side application that powers the GreeneryOPT platform.  
